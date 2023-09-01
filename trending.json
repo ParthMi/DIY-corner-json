@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Hanging Rope Shelves",
+        "materials": [
+          "Wooden planks",
+          "Ropes",
+          "Ceiling hooks"
+        ],
+        "idea": "Build suspended shelves using ropes and wooden planks.",
+        "steps": [
+          "Measure and cut wooden planks to desired shelf lengths.",
+          "Drill holes at each corner of the planks for rope support.",
+          "Thread the ropes through the holes and tie knots underneath each plank.",
+          "Secure ceiling hooks where you want to hang the shelves.",
+          "Attach the ropes to the hooks, adjusting the height as needed.",
+          "Place your items on the shelves and enjoy your hanging storage!"
+        ],
+        "description": "Elevate your storage solutions with these stylish hanging rope shelves.",
+        "type": "Home Decor",
+        "image": "https://media.istockphoto.com/id/486359273/photo/glass-jar-with-coins-on-the-old-wood-shelf.webp?b=1&s=170667a&w=0&k=20&c=C91BxL9suvZC02cUdRdHTtbkjg7ZNWsnDB3lJ0vTkRQ="
+      },
+      {
+        "title": "Crayon Art Canvas",
+        "materials": [
+          "Blank canvas",
+          "Crayons",
+          "Hairdryer",
+          "Hot glue gun"
+        ],
+        "idea": "Create vibrant art using melted crayons.",
+        "steps": [
+          "Arrange crayons at the top of the canvas.",
+          "Glue the crayons in place with a hot glue gun.",
+          "Tilt the canvas at an angle and use a hairdryer to melt the crayons.",
+          "Watch the colors drip and blend as they melt.",
+          "Let the canvas dry and display your colorful masterpiece."
+        ],
+        "description": "Make a dynamic and colorful statement with your very own crayon art canvas.",
+        "type": "Art",
+        "image": "https://media.istockphoto.com/id/1416881804/photo/horizontal-row-of-colorful-pencils-on-grey-paper-background-school-supplies-in-colores-of.webp?b=1&s=170667a&w=0&k=20&c=f2ikx2e3HAbflCT7bcmTIRnbytxpj939JapAwqC7y5Q="
+      },
+      {
+        "title": "DIY Fabric Headband",
+        "materials": [
+          "Fabric scraps",
+          "Elastic band",
+          "Sewing machine or needle and thread"
+        ],
+        "idea": "Create fashionable fabric headbands for various looks.",
+        "steps": [
+          "Cut fabric into a strip, long enough to wrap around your head.",
+          "Fold the fabric lengthwise and sew along the edge.",
+          "Turn the fabric right side out and press it flat.",
+          "Insert the elastic band and sew the ends together.",
+          "Wrap the fabric around your head and style the headband."
+        ],
+        "description": "Add a pop of style to your outfits with your own fabric headbands.",
+        "type": "Fashion",
+        "image": "https://media.istockphoto.com/id/1222066705/photo/trendy-velvet-and-holographic-scrunchies-on-pink-background.webp?b=1&s=170667a&w=0&k=20&c=kwTInVKSs5NKyilop8_RfgTC3oxknKc2oD-QzYqztrg="
+      },
+      {
+        "title": "Custom Laptop Skin",
+        "materials": [
+          "Printable adhesive paper",
+          "Design software",
+          "Scissors or craft knife"
+        ],
+        "idea": "Personalize your laptop with a custom-designed skin.",
+        "steps": [
+          "Measure your laptop's dimensions for accurate sizing.",
+          "Design your laptop skin using design software.",
+          "Print the design onto adhesive paper.",
+          "Carefully cut out the skin using scissors or a craft knife.",
+          "Apply the skin to the laptop lid for a unique look."
+        ],
+        "description": "Give your laptop a makeover and showcase your personal style with a custom laptop skin.",
+        "type": "Tech",
+        "image": "data:image/jpeg;base64,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"
+      }
+]
