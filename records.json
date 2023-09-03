@@ -1,4 +1,170 @@
 [
+  { "date":"2023-09-02",
+  "title": "Create a Smart Home with Raspberry Pi",
+  "materials": [
+    "Raspberry Pi (3 or 4)",
+    "MicroSD card (16GB or higher)",
+    "Power supply for Raspberry Pi",
+    "Sensors (e.g., temperature, motion)",
+    "Relays or smart switches",
+    "Breadboard and jumper wires",
+    "USB keyboard and mouse",
+    "HDMI monitor or TV",
+    "Ethernet cable or Wi-Fi adapter",
+    "Smartphone or computer"
+  ],
+  "idea": "Transform your regular home into a smart home by building a DIY home automation system using a Raspberry Pi. With this system, you can control lights, temperature, and more from your smartphone or computer.",
+  "steps": [
+    "Step 1: Set up the Raspberry Pi",
+    "Step 2: Install the operating system (Raspberry Pi OS)",
+    "Step 3: Connect sensors and relays to the Raspberry Pi",
+    "Step 4: Write Python scripts to control your devices",
+    "Step 5: Create a web-based interface for remote control",
+    "Step 6: Secure your home automation system",
+    "Step 7: Test and fine-tune your smart home setup"
+  ],
+  "description": "In this DIY tech project, you'll learn how to turn your Raspberry Pi into the brain of your smart home. By connecting sensors and relays, writing Python scripts, and creating a user-friendly interface, you'll be able to automate various aspects of your home. Imagine controlling the lights, thermostat, and even security cameras with a few taps on your smartphone. Plus, you'll have the satisfaction of building it yourself.",
+  "type": "Tech DIY",
+  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721686043.jpeg"
+},
+{ "date":"2023-09-01",
+  "title": "Build Your Own Portable Solar Charger",
+  "materials": [
+    "Solar panels (5-10 watts)",
+    "Charge controller",
+    "12V rechargeable battery",
+    "DC-to-AC inverter",
+    "USB charging ports",
+    "Casing or enclosure",
+    "Wiring and connectors",
+    "Soldering iron and solder",
+    "Tools (screwdriver, pliers, wire stripper)"
+  ],
+  "idea": "Harness the power of the sun and keep your devices charged on the go with a DIY portable solar charger. This eco-friendly project will not only save you money but also reduce your carbon footprint.",
+  "steps": [
+    "Step 1: Prepare the solar panels",
+    "Step 2: Connect the charge controller and battery",
+    "Step 3: Add a DC-to-AC inverter",
+    "Step 4: Install USB charging ports",
+    "Step 5: Assemble the casing",
+    "Step 6: Wire everything together",
+    "Step 7: Test your portable solar charger"
+  ],
+  "description": "In this tech DIY project, you'll learn how to create a portable solar charger that can power your smartphone, tablet, or other USB devices using solar energy. Whether you're camping, hiking, or simply want a backup power source for emergencies, this DIY solar charger will come in handy. Plus, it's a sustainable and environmentally friendly way to stay connected when you're off the grid.",
+  "type": "Tech DIY",
+  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721686025.jpeg"
+}
+,
+{ "date":"2023-09-01",
+  "title": "Build Your Own Voice-Controlled Assistant with Raspberry Pi",
+  "materials": [
+    "Raspberry Pi (3 or 4)",
+    "Microphone and speaker",
+    "USB webcam",
+    "MicroSD card (16GB or higher)",
+    "Power supply for Raspberry Pi",
+    "Jumper wires",
+    "Breadboard",
+    "LEDs and resistors",
+    "Internet connection (Wi-Fi or Ethernet)"
+  ],
+  "idea": "Create a personalized voice-controlled assistant using a Raspberry Pi that can answer questions, control your smart home devices, and even tell jokes. It's like having your own DIY virtual assistant at your service!",
+  "steps": [
+    "Step 1: Set up the Raspberry Pi",
+    "Step 2: Connect the microphone, speaker, and webcam",
+    "Step 3: Install the necessary software (e.g., Python libraries)",
+    "Step 4: Write code to handle voice commands",
+    "Step 5: Add functionality (e.g., weather updates, news)",
+    "Step 6: Test and refine your voice-controlled assistant"
+  ],
+  "description": "In this exciting tech DIY project, you'll learn how to turn a Raspberry Pi into a voice-controlled assistant, similar to commercial products like Siri or Alexa. Customize your assistant's responses, integrate it with your smart home devices, and expand its capabilities as you see fit. Whether you're a programming enthusiast or simply looking for a fun and practical project, this voice-controlled assistant is sure to impress.",
+  "type": "Tech DIY",
+  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721686014.jpeg"
+}
+,{ "date":"2023-08-18",
+  "title": "Create an AI-Powered Plant Care System",
+  "materials": [
+    "Raspberry Pi (4 or newer)",
+    "Raspberry Pi Camera Module",
+    "Moisture sensors",
+    "LED grow lights",
+    "Water pump",
+    "Tubing and connectors",
+    "Plant pots with soil",
+    "DC power supply",
+    "Internet connection (Wi-Fi or Ethernet)"
+  ],
+  "idea": "Build a smart plant care system that uses artificial intelligence to monitor and tend to your indoor plants. With this DIY project, your plants will thrive, and you'll gain valuable AI and IoT skills.",
+  "steps": [
+    "Step 1: Set up the Raspberry Pi",
+    "Step 2: Connect the camera and moisture sensors",
+    "Step 3: Install AI software for plant recognition",
+    "Step 4: Program the system to analyze plant health",
+    "Step 5: Automate watering and lighting based on plant needs",
+    "Step 6: Monitor and control your plant care system remotely"
+  ],
+  "description": "In this exciting tech DIY project, you'll create an AI-powered plant care system that can recognize different plant species, monitor soil moisture levels, and adjust watering and lighting accordingly. The system ensures your plants get the care they need, even when you're away from home. It's an excellent way to combine your passion for plants with cutting-edge technology and AI.",
+  "type": "Tech DIY",
+  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721686002.jpeg"
+},
+{ "date":"2023-08-17",
+  "title": "Create Your Own Hanging Plant Wall",
+  "materials": [
+    "Wooden board or metal grid",
+    "Potted plants (variety of indoor plants)",
+    "S-hooks or plant hangers",
+    "Drill and screws",
+    "Measuring tape",
+    "Level",
+    "Pencil",
+    "Potting soil",
+    "Gloves",
+    "Watering can or spray bottle"
+  ],
+  "idea": "Transform a blank wall into a lush, vertical garden by designing and assembling your very own Hanging Plant Wall. This DIY project not only adds natural beauty to your space but also enhances air quality and creates a stunning visual impact.",
+  "steps": [
+    "Step 1: Choose a Location",
+    "Step 2: Measure and Plan Placement",
+    "Step 3: Mount the Board or Grid",
+    "Step 4: Arrange Your Potted Plants",
+    "Step 5: Secure the Plants with S-hooks or Hangers",
+    "Step 6: Water and Maintain Your Hanging Plant Wall"
+  ],
+  "description": "In this DIY project, you'll learn how to transform any indoor area into a green oasis. The Hanging Plant Wall is an innovative way to showcase your plant collection, making it a focal point of your decor. It's not only visually appealing but also a practical addition to your home, bringing nature indoors.",
+  "type": "Tech DIY",
+  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721685990.jpeg"
+}
+,
+{ "date":"2023-08-15",
+  "title": "DIY Teacup Mini Gardens",
+  "materials": [
+    "Vintage teacups and saucers",
+    "Potting soil",
+    "Small succulent or air plant",
+    "Small rocks or pebbles",
+    "Activated charcoal (optional)",
+    "Decorative figurines (optional)",
+    "Small spoon or scoop",
+    "Gardening gloves",
+    "Watering can or spray bottle"
+  ],
+  "idea": "Turn vintage teacups into charming mini gardens! These DIY Teacup Mini Gardens add a touch of whimsy to your home decor and are a delightful way to display your favorite succulents or air plants.",
+  "steps": [
+    "Step 1: Gather Your Materials",
+    "Step 2: Prepare the Teacups and Saucers",
+    "Step 3: Add a Layer of Small Rocks or Pebbles",
+    "Step 4: Add a Thin Layer of Activated Charcoal (optional)",
+    "Step 5: Fill with Potting Soil",
+    "Step 6: Plant Your Succulent or Air Plant",
+    "Step 7: Decorate with Mini Figurines (optional)",
+    "Step 8: Water Sparingly",
+    "Step 9: Find the Perfect Spot for Your Teacup Mini Gardens"
+  ],
+  "description": "Crafting your own Teacup Mini Gardens is a delightful and eco-friendly way to upcycle vintage teacups and saucers. These tiny gardens not only make for unique home decor but also serve as a conversation piece. They require minimal care and are perfect for small spaces, making them an excellent addition to any home or as thoughtful gifts.",
+  "type": "Decor",
+  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721685980.jpeg"
+}
+,
   {  "date":"2023-07-28",
     "title": "Macramé Plant Hanger",
     "materials": [
