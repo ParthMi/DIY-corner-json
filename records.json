@@ -25,7 +25,7 @@
   ],
   "description": "In this DIY tech project, you'll learn how to turn your Raspberry Pi into the brain of your smart home. By connecting sensors and relays, writing Python scripts, and creating a user-friendly interface, you'll be able to automate various aspects of your home. Imagine controlling the lights, thermostat, and even security cameras with a few taps on your smartphone. Plus, you'll have the satisfaction of building it yourself.",
   "type": "Tech DIY",
-  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721686043.jpeg"
+  "image": "https://parthmi.github.io/DIY-corner-json/images/1693721686043.jpeg"
 },
 { "date":"2023-09-01",
   "title": "Build Your Own Portable Solar Charger",
@@ -52,7 +52,7 @@
   ],
   "description": "In this tech DIY project, you'll learn how to create a portable solar charger that can power your smartphone, tablet, or other USB devices using solar energy. Whether you're camping, hiking, or simply want a backup power source for emergencies, this DIY solar charger will come in handy. Plus, it's a sustainable and environmentally friendly way to stay connected when you're off the grid.",
   "type": "Tech DIY",
-  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721686025.jpeg"
+  "image": "https://parthmi.github.io/DIY-corner-json/images/1693721686025.jpeg"
 }
 ,
 { "date":"2023-09-01",
@@ -79,7 +79,7 @@
   ],
   "description": "In this exciting tech DIY project, you'll learn how to turn a Raspberry Pi into a voice-controlled assistant, similar to commercial products like Siri or Alexa. Customize your assistant's responses, integrate it with your smart home devices, and expand its capabilities as you see fit. Whether you're a programming enthusiast or simply looking for a fun and practical project, this voice-controlled assistant is sure to impress.",
   "type": "Tech DIY",
-  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721686014.jpeg"
+  "image": "https://parthmi.github.io/DIY-corner-json/images/1693721686014.jpeg"
 }
 ,{ "date":"2023-08-18",
   "title": "Create an AI-Powered Plant Care System",
@@ -105,7 +105,7 @@
   ],
   "description": "In this exciting tech DIY project, you'll create an AI-powered plant care system that can recognize different plant species, monitor soil moisture levels, and adjust watering and lighting accordingly. The system ensures your plants get the care they need, even when you're away from home. It's an excellent way to combine your passion for plants with cutting-edge technology and AI.",
   "type": "Tech DIY",
-  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721686002.jpeg"
+  "image": "https://parthmi.github.io/DIY-corner-json/images/1693721686002.jpeg"
 },
 { "date":"2023-08-17",
   "title": "Create Your Own Hanging Plant Wall",
@@ -132,7 +132,7 @@
   ],
   "description": "In this DIY project, you'll learn how to transform any indoor area into a green oasis. The Hanging Plant Wall is an innovative way to showcase your plant collection, making it a focal point of your decor. It's not only visually appealing but also a practical addition to your home, bringing nature indoors.",
   "type": "Tech DIY",
-  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721685990.jpeg"
+  "image": "https://parthmi.github.io/DIY-corner-json/images/1693721685990.jpeg"
 }
 ,
 { "date":"2023-08-15",
@@ -162,7 +162,7 @@
   ],
   "description": "Crafting your own Teacup Mini Gardens is a delightful and eco-friendly way to upcycle vintage teacups and saucers. These tiny gardens not only make for unique home decor but also serve as a conversation piece. They require minimal care and are perfect for small spaces, making them an excellent addition to any home or as thoughtful gifts.",
   "type": "Decor",
-  "imagelink": "https://parthmi.github.io/DIY-corner-json/images/1693721685980.jpeg"
+  "image": "https://parthmi.github.io/DIY-corner-json/images/1693721685980.jpeg"
 }
 ,
   {  "date":"2023-07-28",
