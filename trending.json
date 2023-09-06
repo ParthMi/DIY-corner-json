@@ -1,24 +1,29 @@
 [
-    {
-        "title": "Hanging Rope Shelves",
-        "materials": [
-          "Wooden planks",
-          "Ropes",
-          "Ceiling hooks"
-        ],
-        "idea": "Build suspended shelves using ropes and wooden planks.",
-        "steps": [
-          "Measure and cut wooden planks to desired shelf lengths.",
-          "Drill holes at each corner of the planks for rope support.",
-          "Thread the ropes through the holes and tie knots underneath each plank.",
-          "Secure ceiling hooks where you want to hang the shelves.",
-          "Attach the ropes to the hooks, adjusting the height as needed.",
-          "Place your items on the shelves and enjoy your hanging storage!"
-        ],
-        "description": "Elevate your storage solutions with these stylish hanging rope shelves.",
-        "type": "Home Decor",
-        "image": "https://media.istockphoto.com/id/486359273/photo/glass-jar-with-coins-on-the-old-wood-shelf.webp?b=1&s=170667a&w=0&k=20&c=C91BxL9suvZC02cUdRdHTtbkjg7ZNWsnDB3lJ0vTkRQ="
-      },
+   {
+  "date": "2023-09-07",
+  "title": "Homemade Greeting Cards",
+  "idea": "Homemade Greeting Cards",
+  "description": "Learn how to make unique and personalized greeting cards for various occasions in this step-by-step guide.",
+  "materials": [
+    "Blank cardstock or craft paper",
+    "Markers, colored pencils, or watercolors",
+    "Stamps and ink pads",
+    "Stickers, glitter, and embellishments",
+    "Scissors and glue",
+    "Envelopes"
+  ],
+  "steps": [
+    "Gather your materials, including cardstock or craft paper, markers, stamps, and embellishments.",
+    "Fold the cardstock or craft paper in half to create the card's base.",
+    "Design and decorate the front of the card with your chosen art supplies, adding a personalized message or image.",
+    "Use stamps and ink pads to create additional decorative elements if desired.",
+    "Add stickers, glitter, or other embellishments to enhance the card's visual appeal.",
+    "Let the card dry completely if you used wet materials like watercolors.",
+    "Write a heartfelt message inside the card, and it's ready to be placed in an envelope and given to someone special!"
+  ],
+  "type": "Crafts",
+  "image": "https://parthmi.github.io/DIY-corner-json/images/26e8f968-89f6-4808-b9a9-69d98a529061.jpg"
+},
       {
         "title": "Crayon Art Canvas",
         "materials": [
