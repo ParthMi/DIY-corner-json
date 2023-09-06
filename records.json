@@ -1,4 +1,29 @@
-[
+[{
+  "date": "2023-09-07",
+  "title": "Homemade Greeting Cards",
+  "idea": "Homemade Greeting Cards",
+  "description": "Learn how to make unique and personalized greeting cards for various occasions in this step-by-step guide.",
+  "materials": [
+    "Blank cardstock or craft paper",
+    "Markers, colored pencils, or watercolors",
+    "Stamps and ink pads",
+    "Stickers, glitter, and embellishments",
+    "Scissors and glue",
+    "Envelopes"
+  ],
+  "steps": [
+    "Gather your materials, including cardstock or craft paper, markers, stamps, and embellishments.",
+    "Fold the cardstock or craft paper in half to create the card's base.",
+    "Design and decorate the front of the card with your chosen art supplies, adding a personalized message or image.",
+    "Use stamps and ink pads to create additional decorative elements if desired.",
+    "Add stickers, glitter, or other embellishments to enhance the card's visual appeal.",
+    "Let the card dry completely if you used wet materials like watercolors.",
+    "Write a heartfelt message inside the card, and it's ready to be placed in an envelope and given to someone special!"
+  ],
+  "type": "Crafts",
+  "image": "https://parthmi.github.io/DIY-corner-json/images/26e8f968-89f6-4808-b9a9-69d98a529061.jpg"
+}
+,
   { "date":"2023-09-02",
   "title": "Create a Smart Home with Raspberry Pi",
   "materials": [
