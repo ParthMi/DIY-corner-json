@@ -1,26 +1,26 @@
 {
   {
-    id:1,
-    img:"https://assets.codepen.io/12005/windmill.jpg"
+    "id":1,
+    "img":"https://assets.codepen.io/12005/windmill.jpg"
   },
   {
-    id:2,
-    img:"https://assets.codepen.io/12005/suspension-bridge.jpg"
+    "id":2,
+    "img":"https://assets.codepen.io/12005/suspension-bridge.jpg"
   },
   {
-    id:3,
-    img:"https://assets.codepen.io/12005/sunset.jpg"
+    "id":3,
+    "img":"https://assets.codepen.io/12005/sunset.jpg"
   },
   {
-    id:4,
-    img:"https://assets.codepen.io/12005/snowy.jpg"
+    "id":4,
+    "img":"https://assets.codepen.io/12005/snowy.jpg"
   },
   {
-    id:5,
-    img:"https://assets.codepen.io/12005/bristol-balloons1.jpg"
+    "id":5,
+    "img":"https://assets.codepen.io/12005/bristol-balloons1.jpg"
   },
   {
-    id:6,
-    img:"https://assets.codepen.io/12005/windmill.jpg"
+    "id":6,
+    "img":"https://assets.codepen.io/12005/windmill.jpg"
   }
 }
